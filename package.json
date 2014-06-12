@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/roro0000/node-irMagician/issues"
   },
-  "homepage": "https://github.com/roro0000/node-irMagician"
+  "homepage": "https://github.com/roro0000/node-irMagician",
+  "dependencies": {
+        "serialport": "1.4.0"
+  }
 }
