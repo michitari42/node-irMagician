@@ -1,0 +1,19 @@
+{
+  "name": "node-irMagician",
+  "version": "0.0.1",
+  "description": "irMagician wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:roro0000/node-irMagician.git"
+  },
+  "author": "roro0000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roro0000/node-irMagician/issues"
+  },
+  "homepage": "https://github.com/roro0000/node-irMagician"
+}
